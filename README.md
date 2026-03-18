@@ -2,7 +2,7 @@
 
 > *I build the things that build the things.*
 
-Staff Platform & DX Engineer obsessed with making developers unstoppable.  
+Staff SDE & DX Engineer obsessed with making developers unstoppable.  
 CI/CD · Observability · Internal Tools · Build Ecosystems · Scalable Systems · Build & Automation Expert for Mobile Apps
 
 ![Experience](https://img.shields.io/badge/Experience-10%20Years-378ADD?style=flat-square)
