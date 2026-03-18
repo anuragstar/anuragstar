@@ -24,6 +24,14 @@ CI/CD · Observability · Internal Tools · Build Ecosystems · Scalable Systems
 - 🧰 **Developer Tooling** — Tools that make engineers 10x productive
 - 🌐 **Distributed Systems** — Designing for reliability and scale
 
+
+## 🚀 Highlights
+
+- 🏗️ **Architected a unified pipeline** that builds & deploys **1000+ services** from a single pipeline — zero per-service config overhead
+- 📱 Reduced mobile CI build times significantly through build cache & parallelization
+- 🔍 Built observability platforms that give teams full visibility across distributed systems
+- ⚙️ Designed internal developer platforms used by hundreds of engineers daily
+
 ## 🌱 Currently Learning
 
 - 🤖 **AI/ML Ops** — Bringing MLOps practices into the platform world
