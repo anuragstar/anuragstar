@@ -17,6 +17,31 @@ CI/CD · Observability · Internal Tools · Build Ecosystems · Scalable Systems
 
 ---
 
+## 🎯 Currently Working On
+
+- 📱 **Mobile CI/CD** — Streamlining iOS & Android pipelines at scale
+- ⚙️ **Platform Engineering** — Building internal developer platforms
+- 🧰 **Developer Tooling** — Tools that make engineers 10x productive
+- 🌐 **Distributed Systems** — Designing for reliability and scale
+
+## 🌱 Currently Learning
+
+- 🤖 **AI/ML Ops** — Bringing MLOps practices into the platform world
+- 🔍 **OpenTelemetry Deep Dive** — Mastering distributed tracing & metrics
+- 🧠 **LLMs** — Exploring how large language models can supercharge DX
+
+## 💬 Ask Me About
+
+`CI/CD Architecture` `Build System Optimization` `Scaling Infra` `DX Strategy` `Mobile CI/CD`
+
+## 💡 Fun Facts About Me
+
+- 🛠️ I've probably debugged more pipelines than most people have written
+- 📱 I care deeply about mobile build times — every second counts
+- 🔍 I get unreasonably excited about good observability dashboards
+- ☕ Powered by coffee and clean build logs
+- 🌏 Building from India, impacting teams globally
+
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragstar&show_icons=true&theme=tokyonight)
