@@ -5,6 +5,10 @@
 Staff Platform & DX Engineer obsessed with making developers unstoppable.  
 CI/CD · Observability · Internal Tools · Build Ecosystems · Scalable Systems · Build & Automation Expert for Mobile Apps
 
+![Experience](https://img.shields.io/badge/Experience-8--10%20Years-378ADD?style=flat-square)
+![Location](https://img.shields.io/badge/Timezone-IST%20%7C%20India-F46800?style=flat-square)
+![Automation](https://img.shields.io/badge/Build%20%26%20Automation%20Expert-Mobile%20Apps-94399E?style=flat-square)
+
 ---
 
 ## 🛠️ What I Do
