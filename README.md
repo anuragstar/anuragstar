@@ -8,7 +8,8 @@ CI/CD · Observability · Internal Tools · Build Ecosystems · Scalable Systems
 ![Experience](https://img.shields.io/badge/Experience-8--10%20Years-378ADD?style=flat-square)
 ![Location](https://img.shields.io/badge/Timezone-IST%20%7C%20India-F46800?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI--CD%20Expert-Pipelines%20%26%20Delivery-D24939?style=flat-square)
-![Build Tools](https://img.shields.io/badge/Build%20Tools%20Expert-Gradle%20%7C%20Bazel%20%7C%20Maven-02303A?style=flat-square)
+![Build Tools](https://img.shields.io/badge/Build%20Tools%20Expert-Gradle%20%7C%20Maven%20%7C%20Node%20%7C%20Python%20%7C%20Golang-02303A?style=flat-square)
+![Remote Caching](https://img.shields.io/badge/Remote%20Caching-Build%20Speed%20%26%20Efficiency-43A047?style=flat-square)
 
 ---
 
