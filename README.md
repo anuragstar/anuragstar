@@ -2,7 +2,7 @@
 
 > *I build the things that build the things.*
 
-Platform & DX Engineer obsessed with making developers unstoppable.  
+Staff Platform & DX Engineer obsessed with making developers unstoppable.  
 CI/CD · Observability · Internal Tools · Build Ecosystems · Scalable Systems
 
 ---
