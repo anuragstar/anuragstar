@@ -20,33 +20,15 @@ CI/CD · Observability · Internal Tools · Build Ecosystems · Scalable Systems
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragstar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragstar&layout=compact&theme=tokyonight)
 
----
-# Hey, I'm [Your Name] 👋
 
-> *I build the things that build the things.*
+## 🔥 Contribution Streak
 
-Platform & DX Engineer obsessed with making developers unstoppable.  
-CI/CD · Observability · Internal Tools · Build Ecosystems · Scalable Systems
+![GitHub Streak](https://streak-stats.demolab.com?user=anuragstar&theme=tokyonight&hide_border=true)
 
----
+## 📈 Contribution Graph
 
-## 🛠️ What I Do
-
-- ⚙️ **Developer Experience** — Reducing friction so teams ship faster & happier
-- 🚀 **CI/CD Pipelines** — Fast, reliable, and zero-drama deployments
-- 🔍 **Observability** — If it's broken, you'll know before your users do
-- 🧰 **Internal Tools** — Building the platforms engineers actually love
-- 📦 **Build Ecosystems** — Scalable, maintainable, and fast build systems
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragstar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragstar&layout=compact&theme=tokyonight&langs_count=20&hide_progress=false)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anuragstar&theme=tokyo-night&hide_border=true)
 
 ---
 
