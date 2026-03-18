@@ -34,9 +34,12 @@ CI/CD · Observability · Internal Tools · Build Ecosystems · Scalable Systems
 ## 🚀 Highlights
 
 - 🏗️ **Architected a unified pipeline** that builds & deploys **1000+ services** from a single pipeline — zero per-service config overhead
+- 🖥️ **Expert in GitHub Self-Hosted Runners** — managing Linux & Mac runner fleets at scale for high-performance CI workloads
+- ⚡ **Remote Caching expert** — dramatically reducing build times across Gradle, Bazel & other build systems using remote cache strategies
 - 📱 Reduced mobile CI build times significantly through build cache & parallelization
 - 🔍 Built observability platforms that give teams full visibility across distributed systems
 - ⚙️ Designed internal developer platforms used by hundreds of engineers daily
+
 
 ## 🌱 Currently Learning
 
