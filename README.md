@@ -3,7 +3,7 @@
 > *I build the things that build the things.*
 
 Staff Platform & DX Engineer obsessed with making developers unstoppable.  
-CI/CD · Observability · Internal Tools · Build Ecosystems · Scalable Systems
+CI/CD · Observability · Internal Tools · Build Ecosystems · Scalable Systems · Build & Automation Expert for Mobile Apps
 
 ---
 
